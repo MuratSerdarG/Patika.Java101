@@ -27,9 +27,9 @@ public class Main {
         double cevre=2*pie*ycap;
         double macideger=(alan*maci)/(360);
         
-        System.out.println("Dairemizin alan ölcüsü : "+alan);         //Toplam mesafeyi yazdiriyoruz.
-        System.out.println("Dairemizin cevre ölcüsü : "+cevre);       //Toplam ucreti yazdiriyoruz.
-        System.out.println("Merkez acisi "+maci+" olan daire diliminin alani "+macideger+" seklindedir.");       //Toplam ucreti yazdiriyoruz.
+        System.out.println("Dairemizin alan ölcüsü : "+alan);         //Alani yazdiriyoruz.
+        System.out.println("Dairemizin cevre ölcüsü : "+cevre);       //Cevreyi yazdiriyoruz.
+        System.out.println("Merkez acisi "+maci+" olan daire diliminin alani "+macideger+" seklindedir.");       //Daire dilimini yazdiriyoruz.
         
     }
 }
