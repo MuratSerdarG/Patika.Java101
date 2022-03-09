@@ -16,11 +16,11 @@ public class Main {
         
         int akenar,bkenar,ckenar;   //Degiskenleri int olarak ayarliyoruz.
         
-        System.out.println("Lutfen almak istediginiz urunun fiyatini giriniz : ");      //A kenar uzunlugunu input olarak istiyoruz.
+        System.out.println("Lutfen a kenar uzunlugunu giriniz : ");      //A kenar uzunlugunu input olarak istiyoruz.
         akenar = deger.nextInt();                                                       //Gelen input degerini degiskene esitliyoruz.
-        System.out.println("Lutfen almak istediginiz urunun fiyatini giriniz : ");      //B kenar uzunlugunu input olarak istiyoruz.
+        System.out.println("Lutfen b kenar uzunlugunu giriniz : ");      //B kenar uzunlugunu input olarak istiyoruz.
         bkenar = deger.nextInt();                                                       //Gelen input degerini degiskene esitliyoruz.
-        System.out.println("Lutfen almak istediginiz urunun fiyatini giriniz : ");      //C kenar uzunlugunu input olarak istiyoruz.
+        System.out.println("Lutfen c kenar uzunlugunu giriniz : ");      //C kenar uzunlugunu input olarak istiyoruz.
         ckenar = deger.nextInt();                                                       //Gelen input degerini degiskene esitliyoruz.
 
         
