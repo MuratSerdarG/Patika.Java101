@@ -11,7 +11,7 @@
 ```java
 import java.util.Scanner;
 
-public class JavaPatika {
+public class Main {
     public static void main(String[] args) {
         Scanner deger = new Scanner(System.in);
         
