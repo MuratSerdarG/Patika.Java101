@@ -16,6 +16,7 @@ public class Main
 	    int sayac=0;
 	    
 	    Scanner input= new Scanner(System.in);
+	    System.out.print("Sayi giriniz :")
 	    sayi=input.nextInt();
 	    
 	    for(int i=1; i<=sayi;i++){
